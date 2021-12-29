@@ -138,18 +138,18 @@ section#hero {
 
 .layer_1 {
     z-index: 1;
-    background-image: url(/assets/imgs/hero/layer_1.jpg);
+    background-image: url(../../../assets/imgs/hero/layer_1.jpg);
 }
 
 .layer_2 {
     z-index: 2;
-    background-image: url(/assets/imgs/hero/layer_2.png)
+    background-image: url(../../../assets/imgs/hero/layer_2.png)
 }
 
 .layer_3 {
     z-index: 3;
     width: 200%;
-    background-image: url(/assets/imgs/hero/layer_3.png);
+    background-image: url(../../../assets/imgs/hero/layer_3.png);
     background-size: cover;
     -webkit-animation: movingclouds 25s linear infinite;
     -moz-animation: movingclouds 25s linear infinite;
@@ -158,12 +158,12 @@ section#hero {
 
 .layer_4 {
     z-index: 4;
-    background-image: url(/assets/imgs/hero/layer_4.jpg);
+    background-image: url(../../../assets/imgs/hero/layer_4.jpg);
 }
 
 .layer_5 {
     z-index: 5;
-    background-image: url(/assets/imgs/hero/layer_5.png);
+    background-image: url(../../../assets/imgs/hero/layer_5.png);
 }
 
 @keyframes movingclouds {

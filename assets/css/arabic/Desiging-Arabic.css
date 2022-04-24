@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
 :root {
   --blue-color: #19333f;
   --new-blue-color: #003852;
@@ -15,6 +16,7 @@ body {
   font-family: 'Montserrat', sans-serif !important;
   overflow-x: hidden;
 }
+
 
 img {
   width: 100%;

@@ -125,6 +125,15 @@ hr {
   background-repeat: no-repeat;
 }
 
+.dark {
+  background-color: var(--blue-color);
+}
+
+.light {
+  background-color: #d3d3d3;
+  border: solid 1px #333;
+}
+
 /* -----------------------------Form---------------------------- */
 
 .contact .container .title h1 {
